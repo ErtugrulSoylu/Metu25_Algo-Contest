@@ -1,6 +1,7 @@
 Given Time: 36h
 
-Team members: 
+Team members:
+
 https://github.com/ertugrulSoylu
 
 https://github.com/emirmatik
