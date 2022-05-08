@@ -1,9 +1,10 @@
 Given Time: 36h
 
 Team members: 
-
 https://github.com/ertugrulSoylu
+
 https://github.com/emirmatik
+
 https://github.com/caginagirdemir
 
 Solved Problems [8/8]:
