@@ -1,5 +1,7 @@
 Given Time: 36h
 
+Team name: sipilaspilas
+
 Team members:
 
 https://github.com/ertugrulSoylu
